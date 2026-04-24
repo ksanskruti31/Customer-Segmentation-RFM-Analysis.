@@ -1,2 +1,1 @@
-## Customer Segmentation Visualization
-![RFM Treemap](customer_segmentation_treemap.png)
+![RFM Treemap](https://raw.githubusercontent.com/ksanskruti31/Customer-Segmentation-RFM-Analysis/main/customer_segmentation_treemap.png)
